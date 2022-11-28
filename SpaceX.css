@@ -1,0 +1,218 @@
+.firstpic{
+    height: 713px;
+    width: auto;
+    background-image: url(images/Homepage_Desktop.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    margin: 0;
+}
+
+#nav{
+    position: fixed;
+    margin-left: 90px;
+    display: flex;
+    padding: 25px;
+}
+#mainlogo{
+
+    width: 215px;
+}
+ul.headerli a{
+    text-decoration: none;
+    color: #fff;
+}
+ul.headerli a:hover{
+    text-decoration: underline;
+}
+ul.headerli{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 13px;
+    padding-top: 5px;
+    list-style: none;
+    display: flex;
+}
+.headerli li{
+    margin-left: 20px;
+}
+.fa-solid{
+    cursor: pointer;
+}
+#shop{
+    padding-left: 235px;
+}
+
+#Fcomment{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 90px;
+    top: 425px;
+    color: #fff;
+}
+
+#button{
+    border: 2px solid ;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    height: 40px;
+    width: 50%;
+}
+span :hover{
+    background-image: linear-gradient(to right, #fff,#ffff);
+    color: black;
+}
+#Fcomment a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#crs26{
+    color: rgb(230, 230, 230);
+    font-size: 18px;
+    font-weight: lighter;
+}
+/* First portion ended */
+
+.secondpic{
+    height: 713px;
+    width: 100%;
+    background-image: url(images/Homepage_Desktop2.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1px;
+}
+#Fcomment2{
+    color: #fff;
+    position: absolute;
+    top: 1072px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+#Fcomment2 a{
+    color: #fff;
+    text-decoration: none;
+}
+#button2{
+    border: 2px solid;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 23px;
+    height: 40px;
+    width: 50%;
+}
+#eutelsat{
+    color: rgb(230, 230, 230);
+    font-size: 18px;
+    font-weight: lighter;
+}
+/* Second portion End */
+
+.thirdpic{
+    height: 713px;
+    width: 100%;
+    background-image: url("images/hls-resized-2.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Fcomment3{
+    color: #fff;
+    position: absolute;
+    top: 1670px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+#Fcomment3 a{
+    color: #fff;
+    text-decoration: none;
+}
+#button3{
+    border: 2px solid;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 23px;
+    height: 40px;
+    width: 50%;
+}
+/* Third portion End*/
+
+.fourthpic{
+    height: 713px;
+    width: 100%;
+    background-image: url("images/S20_Chopstick_Stack_Desktop.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Fcomment4{
+    color: #fff;
+    position: absolute;
+    top: 2545px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+#Fcomment4 a{
+    color: #fff;
+    text-decoration: none;
+}
+#button4{
+    border: 2px solid;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 23px;
+    height: 40px;
+    width: 50%;
+}
+/* Fourth portion End */
+
+.footer{
+    background-color: black;
+    height: 100px;
+    padding-top: 15px;
+    display: flex;
+    padding-left: 24%;
+    padding-right: 20%;
+}
+#copyright{
+    color: rgb(116, 116, 116);
+    font-size: 13px;
+    padding-top: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footerlist{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    display: flex;
+    padding-top: 20px;
+    list-style-type: none;
+    padding-left: 20px;
+    color: #fff;
+}
+.footerlist li{
+    padding-left: 30px;
+}
+.footerlist a{
+    color: #fff;
+    text-decoration: none;
+}
+.footerlist a:hover{
+    color: rgb(156, 156, 156);
+}
